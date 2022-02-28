@@ -10,5 +10,5 @@ def sum_sqr(num):
         return True
     else:
         return False
-n = int(input('enter the number:'))
+n = int(input('enter the desired number:'))
 print(sum_sqr(n))
